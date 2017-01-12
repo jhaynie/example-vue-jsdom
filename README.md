@@ -10,8 +10,8 @@ So after many hours of experimenting I found out how to make it work and made a 
 
 ## Usage
 
-> npm install (or yarn install)
-> npm test
+	npm install (or yarn install)
+	npm test
 
 You should be able to install your dependencies and then run an example test case using Mocha.
 
